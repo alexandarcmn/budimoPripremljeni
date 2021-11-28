@@ -1,0 +1,2 @@
+export const SET_INITIAL_CITY = 'SET_INITIAL_CITY';
+export const GET_ALL_CITIES = "GET_ALL_CITIES";
